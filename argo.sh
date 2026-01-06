@@ -38,7 +38,7 @@ check_process() {
 
 # 清理端口 (BusyBox 兼容)
 clean_port() {
-    local port=2777
+    local port=27777
     echo -e "${YELLOW}清理端口 $port...${NC}"
     
     # 使用 netstat 查找进程
