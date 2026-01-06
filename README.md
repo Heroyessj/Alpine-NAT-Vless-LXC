@@ -4,6 +4,6 @@
 ### 一键脚本自定义
 
 ```bash
-bash <(curl -Ls https://raw.githubusercontent.com/Daelli/Vless-LXC/refs/heads/main/argo.sh)
+bash <(curl -Ls [https://raw.githubusercontent.com/Daelli/Vless-LXC/refs/heads/main/argo.sh](https://raw.githubusercontent.com/Heroyessj/Alpine-NAT-Vless-LXC/refs/heads/main/argo.sh))
 ```
 
